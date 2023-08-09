@@ -1,0 +1,8 @@
+.food-img
+{
+    height:300px;
+    width:300px;
+    border-color: aqua;
+    border-radius: 0.5rem;
+    margin: 10px;
+}
